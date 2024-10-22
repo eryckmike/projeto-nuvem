@@ -8,7 +8,7 @@ app.get("/", function(req, res) {
 
 // Rota 2: Sobre
 app.get("/banguela", function(req, res) {
-    res.send("<h1>Sobre Banguela</h1><p>Banguela é um gatinho preto muito fofo</p>");
+    res.send("<h1>Sobre o Banguelinha fofo</h1><p>Banguela é um gatinho preto muito fofo</p>");
 });
 
 // Rota 3: Contato
